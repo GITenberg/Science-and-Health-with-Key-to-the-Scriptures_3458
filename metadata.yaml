@@ -1,0 +1,32 @@
+_repo: Science-and-Health-with-Key-to-the-Scriptures_3458
+creator:
+  author:
+    agent_name: Eddy, Mary Baker
+    alias: Glover, Mary Baker
+    birthdate: 1821
+    deathdate: 1910
+    gutenberg_agent_id: '1203'
+    url: http://www.gutenberg.org/2009/agents/1203
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Baker_Eddy
+description: '"Science and Health with Key to the Scriptures is the central text of
+  the Christian Science religion. It was written by Mary Baker Eddy, inspired by studies
+  of the Bible she undertook in 1867 following a healing experience. Science and Health
+  posits a wholly metaphysical view of Christianity in which sin, disease, and death
+  are not of God, and are therefore not real. Further, it suggests that by striving
+  toward a spiritual understanding of the world as God''s perfect creation, these
+  "false beliefs" are shed from one''s experience" -- p. [4] of cover.'
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian Science'
+- !lcsh 'Health -- Religious aspects -- Christian Science'
+- !lcc 'BX'
+title: Science and Health, with Key to the Scriptures
+url: http://www.gutenberg.org/ebooks/3458
