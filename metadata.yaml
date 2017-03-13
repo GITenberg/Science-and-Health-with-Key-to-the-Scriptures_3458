@@ -1,5 +1,8 @@
 _repo: Science-and-Health-with-Key-to-the-Scriptures_3458
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eddy, Mary Baker
@@ -16,6 +19,8 @@ description: '"Science and Health with Key to the Scriptures is the central text
   are not of God, and are therefore not real. Further, it suggests that by striving
   toward a spiritual understanding of the world as God''s perfect creation, these
   "false beliefs" are shed from one''s experience" -- p. [4] of cover.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3458#Science-and-Health-with-Key-to-the-Scriptures
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2002-10-01'
 gutenberg_type: Text
