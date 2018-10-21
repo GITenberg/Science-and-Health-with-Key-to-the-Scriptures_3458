@@ -1,5 +1,5 @@
 _repo: Science-and-Health-with-Key-to-the-Scriptures_3458
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'Christian Science'
 - !lcsh 'Health -- Religious aspects -- Christian Science'
 - !lcc 'BX'
+- GITenberg
 title: Science and Health, with Key to the Scriptures
 url: http://www.gutenberg.org/ebooks/3458
